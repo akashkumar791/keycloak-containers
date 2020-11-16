@@ -1,0 +1,32 @@
+1. url for generating long live access token
+https://graph.facebook.com/{graph-api-version}/oauth/access_token?  
+    grant_type=fb_exchange_token&          
+    client_id={app-id}&
+    client_secret={app-secret}&
+    fb_exchange_token={your-access-token}
+	
+2. app id = 2641805772763696
+client secret = fcf9d9af0286f8d723f0e29ac96a1cbd
+
+3. url to study about long live access token
+
+https://developers.facebook.com/docs/facebook-login/access-tokens/refreshing/#get-a-code
+
+4. For Google Analytics id and password are:
+
+api.hmarkets@gmail.com
+
+ganalytics2020
+
+5. For Facebook the id and password are below:
+
+marketing@hantecfx.com
+HMM_290929!?1
+
+6. API for fetching post data 
+
+https://graph.facebook.com/v8.0/me/posts?format=json&limit=1000&fields=object_id,name,created_time,updated_time,description,picture,comments,caption,message,message_tags,shares,reactions&access_token=EAAlitVamsjABAFTvmiNk0RmtmjyOM239TmrdjrylmjB1Yatepi5KWeK62SBjjfaBvv3IsILzud4hkXRDDTUUKi77pwCV2aCuK3co4CZCiayu5OrTPAx73Fw062V9uq40byptUJo6yj3cOBZAkRcF320dtwZBmWjMHrRxodakQZDZD
+
+https://ga-dev-tools.appspot.com/dimensions-metrics-explorer/
+
+7. 
